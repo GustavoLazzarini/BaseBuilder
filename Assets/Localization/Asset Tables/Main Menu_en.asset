@@ -1,0 +1,259 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Main Menu_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 2f8accee2c1a1be449f4f311dd5662e4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 4282888192
+    m_Localized: Use to walk.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806122097291264
+    m_Localized: Start Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1849007513513984
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7696534351622144
+    m_Localized: or
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7698926610657280
+    m_Localized: SFX Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7924749833842688
+    m_Localized: Use to push.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7924964137611264
+    m_Localized: Use to destroy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925085709512704
+    m_Localized: +
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925190130905088
+    m_Localized: Highlight top and right border pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925317805518848
+    m_Localized: Highlight bottom and right border pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925440614739968
+    m_Localized: Toggle fullscreen.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925730722164736
+    m_Localized: Toggle light and dark theme.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925868165312512
+    m_Localized: Shuffle remaining pieces.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926708431204352
+    m_Localized: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926807886540800
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10148161952133120
+    m_Localized: Restart Game
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10148979233239040
+    m_Localized: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10149162306220032
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10150518685413376
+    m_Localized: Return to Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12670001333383168
+    m_Localized: "Director:\n\nDante Pinto\n\n\nPixel Artist:\n\nVitor Manoel Marcelino\n\n\nIllustrator:\n\nMurilo
+      Ariede\n\n\nLevel Designers:\n\nCaio Vinicius Augusto Rog\xE9rio\n\nGabriela
+      Le\xE3o\n\n\nProgrammer:\n\nThuany Palumbo Pagliaro\n\n\nSfx:\n\nRubens Stephan\n\n\nMusic:\n\nMarcus
+      Ferron\n\n\nSpecial Thanks:\n\nMarina Vasconcelos\n\nIvan de Lima\n\nLis Pinto
+      \n\nSergio Orsi\n\nMarina Pinto\n\nNext Level Group\n\n\n\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12698559753728000
+    m_Localized: Chapters Selector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44581517674393600
+    m_Localized: Restart Level
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31884491190939648
+    m_Localized: Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31928725407248384
+    m_Localized: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31929110276583424
+    m_Localized: 'Languages:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31929299116732416
+    m_Localized: 'FullScreen:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85600347842129920
+    m_Localized: Use to restart.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85603266779918336
+    m_Localized: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85603472799936512
+    m_Localized: Leaderboard Selector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85807311289298944
+    m_Localized: Potuguese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85857961535393792
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85864102210359296
+    m_Localized: Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90838730403196928
+    m_Localized: 'Director and Programmer:
+
+
+      Dante Pinto
+
+
+
+      Pixel Artist:
+
+
+      Vitor
+      Manoel Marcelino
+
+
+
+      Support:
+
+
+      Marina Vasconcelos
+
+
+      Ivan
+      Pinto
+
+
+      Lis Pinto
+
+
+      Sergio Pinto
+
+
+      Marina Pinto
+
+
+      Next
+      Level Group
+
+
+
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91326510823903232
+    m_Localized: English
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91326516435881984
+    m_Localized: Portuguese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91354680633593856
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91711046262984704
+    m_Localized: 'Controller:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92860470205591552
+    m_Localized: Hold to Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95711055899791360
+    m_Localized: 'Our Midias:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146714635733307392
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146714986179989504
+    m_Localized: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146724855054340096
+    m_Localized: Social Midias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146758230783823872
+    m_Localized: Enter your email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146764884841598976
+    m_Localized: Send
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146765380591554560
+    m_Localized: 'Subscribe to  our newsletters:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146766560369577984
+    m_Localized: Sucess!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146766603705126912
+    m_Localized: Invalid Email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214908797931417600
+    m_Localized: Wishlist Now!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Main Menu_pt-BR
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: pt-BR
+  m_SharedData: {fileID: 11400000, guid: 2f8accee2c1a1be449f4f311dd5662e4, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 4282888192
+    m_Localized: Use para andar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806122097291264
+    m_Localized: "Come\xE7ar Jogo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1849007513513984
+    m_Localized: "Volume da M\xFAsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7696534351622144
+    m_Localized: ou
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7698926610657280
+    m_Localized: Volume dos Efeitos
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7924749833842688
+    m_Localized: Use para empurrar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7924964137611264
+    m_Localized: Use para destruir.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925085709512704
+    m_Localized: +
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925190130905088
+    m_Localized: "Destaque as pe\xE7as da borda superior e direita."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925317805518848
+    m_Localized: "Destaque as pe\xE7as da borda inferior e direita."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925440614739968
+    m_Localized: "\rAlterna para o modo tela cheia."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925730722164736
+    m_Localized: Alterna entre o tema claro e escuro.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925868165312512
+    m_Localized: "Reembaralha as pe\xE7as restantes."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926708431204352
+    m_Localized: Retomar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926807886540800
+    m_Localized: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10148161952133120
+    m_Localized: "Recome\xE7ar Jogo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10148979233239040
+    m_Localized: Sair
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10149162306220032
+    m_Localized: "Cr\xE9ditos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10150518685413376
+    m_Localized: Voltar ao menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12670001333383168
+    m_Localized: "Diretor:\n\nDante Pinto\n\n\nPixel Artista:\n\nVitor Manoel Marcelino\n\n\nIlustrador:\n\nMurilo
+      Ariede\n\n\nLevel Designers:\n\nCaio Vinicius Augusto Rog\xE9rio\n\nGabriela
+      Le\xE3o\n\n\nProgramador:\n\nThuany Palumbo Pagliaro\n\n\nSfx:\n\nRubens Stephan\n\n\nM\xFAsica:\n\nMarcus
+      Ferron\n\n\nAgradecimentos:\n\nMarina Vasconcelos\n\nIvan de Lima\n\nLis Pinto
+      \n\nSergio Orsi\n\nMarina Pinto\n\nGrupo Next Level\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12698559753728000
+    m_Localized: "Seletor de Cap\xEDtulos"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44581517674393600
+    m_Localized: "Recome\xE7ar Level"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31884491190939648
+    m_Localized: Pausado
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31928725407248384
+    m_Localized: Aplicar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31929110276583424
+    m_Localized: "L\xEDnguas:"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31929299116732416
+    m_Localized: 'Tela cheia:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85600347842129920
+    m_Localized: Use para reiniciar.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85603266779918336
+    m_Localized: Ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85603472799936512
+    m_Localized: Selecione Ranking
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85807311289298944
+    m_Localized: Portuguese
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85857961535393792
+    m_Localized: LocaleSelected
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85864102210359296
+    m_Localized: Voltar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90838730403196928
+    m_Localized: "Director :\n\nDante Pinto\n\n\nPixel Artist:\n\nVitor Manoel Marcelino\n\n\nIllustrator:\n\nMurilo
+      Ariede\n\n\nLevel Designers:\n\nCaio Vinicius Augusto Rog\xE9rio\nGabriela
+      Le\xE3o\n\n\nProgrammer:\n\nThuany Palumbo Pagliaro\n\n\nSfx:\n\nRubens Stephan\n\n\nSupport:\n\nMarina
+      Vasconcelos\n\nIvan de Lima\n\nLis Pinto \n\nSergio Orsi\n\nMarina Pinto\n\nNext
+      Level Group"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91326510823903232
+    m_Localized: ' English'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91326516435881984
+    m_Localized: ' Portuguese'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91354680633593856
+    m_Localized: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91711046262984704
+    m_Localized: 'Controle:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92860470205591552
+    m_Localized: Segure para Pular
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95711055899791360
+    m_Localized: 'Nossas Redes:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146714635733307392
+    m_Localized: "Recome\xE7ar"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146714986179989504
+    m_Localized: "Op\xE7\xF5es"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146724855054340096
+    m_Localized: "M\xEDdias Sociais"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146758230783823872
+    m_Localized: Coloque seu email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146764884841598976
+    m_Localized: Enviar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146765380591554560
+    m_Localized: 'Inscreva para receber novidades:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146766560369577984
+    m_Localized: Sucesso!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146766603705126912
+    m_Localized: "Email Inv\xE1lido"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214908797931417600
+    m_Localized: Wishlist Agora!
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

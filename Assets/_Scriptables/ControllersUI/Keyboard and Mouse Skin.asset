@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ac44010884504fb0d3d19b05dbc55, type: 3}
+  m_Name: Keyboard and Mouse Skin
+  m_EditorClassIdentifier: 
+  sprite_A: {fileID: -7018644115086304743, guid: bb60bb6e03eb70e44ac2dc7eda8261d2, type: 3}
+  sprite_B: {fileID: 0}
+  sprite_Y: {fileID: 0}
+  sprite_X: {fileID: -5761356131312651576, guid: 5653ed3b4f647be49992e9684b86474b, type: 3}
+  sprite_LB: {fileID: 0}
+  sprite_RB: {fileID: 21300000, guid: 250ca8a9b42c1f340bba51de73f26fd5, type: 3}
+  sprite_LT: {fileID: 0}
+  sprite_RT: {fileID: 21300000, guid: afe63a6d9572ba14d8442eded05f5604, type: 3}
+  sprite_ANALOG_L: {fileID: 21300000, guid: 5c4893183c2909b4a9e1afda93ad4d7d, type: 3}
+  sprite_ANALOG_R: {fileID: 0}
+  sprite_SELECT: {fileID: 0}
+  sprite_START: {fileID: 0}
+  animator_A: {fileID: 22100000, guid: 2a594631c312bb94bb1e12aecd8a4287, type: 2}
+  animator_B: {fileID: 22100000, guid: 381377d3d0750b74b90284032321cbed, type: 2}
+  animator_Y: {fileID: 22100000, guid: a1f825659639fd94a8d367f7799feb2e, type: 2}
+  animator_X: {fileID: 22100000, guid: 97bba5d8924dcc94694eec28629c9b9e, type: 2}
+  animator_LB: {fileID: 22100000, guid: 119bd5179b602fb4bb302e372986e215, type: 2}
+  animator_RB: {fileID: 22100000, guid: bbd22b85e479efd44a29987ef876740d, type: 2}
+  animator_LT: {fileID: 22100000, guid: e2b7c33e63d18ef4f994ff0bb2d07a19, type: 2}
+  animator_RT: {fileID: 22100000, guid: 41e3de3f140e2d844a555aa85b879d67, type: 2}
+  animator_ANALOG_L: {fileID: 22100000, guid: dd4b77ef10d00e741bb3b701cf99bb15, type: 2}
+  animator_ANALOG_R: {fileID: 22100000, guid: 5c7154e2027f1604bb962f3602c0ad46, type: 2}
+  animator_SELECT: {fileID: 22100000, guid: 1c6eef4f873e14b49a1eb29dcb1f327d, type: 2}
+  animator_START: {fileID: 22100000, guid: 80196691e6c7c3343ba0bc0f4869fabc, type: 2}

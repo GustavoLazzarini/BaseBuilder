@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ac44010884504fb0d3d19b05dbc55, type: 3}
+  m_Name: XBox Skin
+  m_EditorClassIdentifier: 
+  sprite_A: {fileID: 546986203396664576, guid: 635463cb2ccdb7946b1ef66574b1e969, type: 3}
+  sprite_B: {fileID: -6993042772473673372, guid: 323d42b2bbd916b42812347708221544, type: 3}
+  sprite_Y: {fileID: -7838015934842029157, guid: cf88d63645e62364587cadc8b2066ee0, type: 3}
+  sprite_X: {fileID: -3442184047171489014, guid: 55f696a0179adc5438c0800490764404, type: 3}
+  sprite_LB: {fileID: -3209366112492207757, guid: 6cc1ab269b7508c438b1802857c46156, type: 3}
+  sprite_RB: {fileID: 8436718116762869015, guid: 3b2d7ea9b233c494389746eef4850d8f, type: 3}
+  sprite_LT: {fileID: 4700289671224751154, guid: 17191ff8ff3b9234e8f60234103f7b9a, type: 3}
+  sprite_RT: {fileID: -6605768935389458432, guid: fc9fa2b787647f04d9614fefe978e618, type: 3}
+  sprite_ANALOG_L: {fileID: 7384219826868942322, guid: c701df0a94cac0743b7f69b157be3f90, type: 3}
+  sprite_ANALOG_R: {fileID: -5076175950013019881, guid: c3905c91d9099f44cb736e2bde18d35d, type: 3}
+  sprite_SELECT: {fileID: 7955260594502806385, guid: 245ac1db561548944902cf08db00fae4, type: 3}
+  sprite_START: {fileID: -2244447407392800638, guid: d8aa74d743e4fd84fba61a163e9aa9f9, type: 3}
+  animator_A: {fileID: 22100000, guid: 54fb7d1ccc99e2648bf44bb46716c4f2, type: 2}
+  animator_B: {fileID: 22100000, guid: fc22f2ea0cf3efd4cbf1dc5619286bd4, type: 2}
+  animator_Y: {fileID: 22100000, guid: 6fcb1caf5e6024946bcddcb274095425, type: 2}
+  animator_X: {fileID: 22100000, guid: 38324864005079149b11e78486774689, type: 2}
+  animator_LB: {fileID: 22100000, guid: f700967d414680a4b931e6def64d0767, type: 2}
+  animator_RB: {fileID: 22100000, guid: a62f877ff9fc2be408dc9ea28e9a477c, type: 2}
+  animator_LT: {fileID: 22100000, guid: 2f12ed55a96ac1b429edb29ad0775c54, type: 2}
+  animator_RT: {fileID: 22100000, guid: 943fc66fbdd3f03429bd75cfe8955c96, type: 2}
+  animator_ANALOG_L: {fileID: 22100000, guid: 265041924b604dd48b51cc0cc0d92796, type: 2}
+  animator_ANALOG_R: {fileID: 22100000, guid: 3a0a5c11c5c1c5f43b843d5328bd86f8, type: 2}
+  animator_SELECT: {fileID: 22100000, guid: 7be32bba9d41a634cba725927db23948, type: 2}
+  animator_START: {fileID: 22100000, guid: ef5868f54eb831745ba2a8bbbdd6fcee, type: 2}

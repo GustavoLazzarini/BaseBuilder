@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa955f4ec955dd5449811ab1a1df7f83, type: 3}
+  m_Name: iceBreak
+  m_EditorClassIdentifier: 
+  looping: 0
+  _audioClipGroups:
+  - sequenceMode: 0
+    audioClips:
+    - {fileID: 8300000, guid: 5774a96b8d4974049b1d9c3b27852702, type: 3}
+    - {fileID: 8300000, guid: 0b3481b01924b6d40b69677b2dc12810, type: 3}
+    - {fileID: 8300000, guid: a48dc76628f94db4fb061c5e246f9e8d, type: 3}

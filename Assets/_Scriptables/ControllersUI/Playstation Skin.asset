@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c9ac44010884504fb0d3d19b05dbc55, type: 3}
+  m_Name: Playstation Skin
+  m_EditorClassIdentifier: 
+  sprite_A: {fileID: 4226813305132822389, guid: 7c7f12d1353816d45a1f791e1651fc8b, type: 3}
+  sprite_B: {fileID: 7737597860040040698, guid: 05b0753e464a7b248aeb71a1aebda23c, type: 3}
+  sprite_Y: {fileID: 2943082323931375214, guid: afd8cd6a0f0266d4b8f4e308e09138cc, type: 3}
+  sprite_X: {fileID: -5903489993157708723, guid: 1b4a97c737e0cf745b270904b6066e7d, type: 3}
+  sprite_LB: {fileID: -4719042952417329227, guid: 14599ece0c8b90e4dbaa732bb61ef6f7, type: 3}
+  sprite_RB: {fileID: -450743717736755240, guid: 2bcc8324149c2cc4283fd826a404a2f9, type: 3}
+  sprite_LT: {fileID: -3160080982435973606, guid: 2ce9619a08ccb47499109f971cdbdb8b, type: 3}
+  sprite_RT: {fileID: 988606077200667389, guid: 9303007ad88084e41af68559e2c6d6a0, type: 3}
+  sprite_ANALOG_L: {fileID: 1296268286761202293, guid: ad4d9a224f28bdd46b24fdba480fb664, type: 3}
+  sprite_ANALOG_R: {fileID: 8020819297623070182, guid: f7db18d58ba72bb41bf1570cc6460811, type: 3}
+  sprite_SELECT: {fileID: -5889560201254387269, guid: 585b5c00f3cd1584fbb4b5374ceb3d1a, type: 3}
+  sprite_START: {fileID: -5889560201254387269, guid: 585b5c00f3cd1584fbb4b5374ceb3d1a, type: 3}
+  animator_A: {fileID: 22100000, guid: 956aa9ce29c99db46a7c56823d36de58, type: 2}
+  animator_B: {fileID: 22100000, guid: bb13ceab54be6af4590f96c255319e39, type: 2}
+  animator_Y: {fileID: 22100000, guid: 4c3ad6afbca14db4490e96a0ee12bded, type: 2}
+  animator_X: {fileID: 22100000, guid: d836ce41869ad754286e0b0b0ba2c0cc, type: 2}
+  animator_LB: {fileID: 22100000, guid: 0312559a108f04542946c074f6d1ae97, type: 2}
+  animator_RB: {fileID: 22100000, guid: 3f8840be1e1684b4ebe33bdc98d619eb, type: 2}
+  animator_LT: {fileID: 22100000, guid: e1a807fd0976e1b4a90aba2b842b8e94, type: 2}
+  animator_RT: {fileID: 22100000, guid: d60b3519be04bd44aa3b7f10e1e5022f, type: 2}
+  animator_ANALOG_L: {fileID: 22100000, guid: 2ca7b3eb7cfb12d4fa8a0443919586c0, type: 2}
+  animator_ANALOG_R: {fileID: 22100000, guid: 7a7b3cc6fbd175f4bb508e6e2984550f, type: 2}
+  animator_SELECT: {fileID: 22100000, guid: 9c2a270e7a18baf44952f003f9bc6053, type: 2}
+  animator_START: {fileID: 22100000, guid: 2fcc6af04c06a3144872c52e14761859, type: 2}

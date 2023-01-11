@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PsychPower
+  - PushPowerR
+  - PushPowerL
+  - PushPowerT
+  - PushPowerD
+  - Hole
+  - Wood
+  - Ice
+  - UIBlocker
+  - FirstButton
+  - SettingsPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tilemaps
+  - ObjectsNoCollision
+  - ObjectsCollision
+  - Player
+  - Enemies
+  - PsychPower
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 352632613
+    locked: 0
+  - name: Background Middle
+    uniqueID: 1091020397
+    locked: 0
+  - name: BackGround Front
+    uniqueID: 4072699563
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tilemap
+    uniqueID: 2999555609
+    locked: 0
+  - name: Objects Back
+    uniqueID: 4044483519
+    locked: 0
+  - name: Effects Back
+    uniqueID: 1317733811
+    locked: 0
+  - name: Enemies
+    uniqueID: 719332201
+    locked: 0
+  - name: Catarro
+    uniqueID: 3145525891
+    locked: 0
+  - name: Objects Front
+    uniqueID: 3053431103
+    locked: 0
+  - name: Effects Front
+    uniqueID: 2109647903
+    locked: 0
+  - name: UI
+    uniqueID: 4234511711
+    locked: 0
+  - name: Cursor
+    uniqueID: 1272116247
+    locked: 0

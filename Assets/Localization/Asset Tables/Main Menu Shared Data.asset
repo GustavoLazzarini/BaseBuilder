@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Main Menu Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Main Menu
+  m_TableCollectionNameGuidString: 2f8accee2c1a1be449f4f311dd5662e4
+  m_Entries:
+  - m_Id: 4282888192
+    m_Key: TutorialWalk
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1806122097291264
+    m_Key: StartGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1849007513513984
+    m_Key: MusicVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7696534351622144
+    m_Key: Or
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7698926610657280
+    m_Key: SFXVolume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7924749833842688
+    m_Key: TutorialPush
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7924964137611264
+    m_Key: TutorialDestroy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925085709512704
+    m_Key: Plus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925190130905088
+    m_Key: TopRight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925317805518848
+    m_Key: BottomRight
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925440614739968
+    m_Key: ToggleFullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925730722164736
+    m_Key: ToggleLightAndDark
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7925868165312512
+    m_Key: Shuffle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926708431204352
+    m_Key: Resume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7926807886540800
+    m_Key: Menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10148161952133120
+    m_Key: RestartGame
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10148979233239040
+    m_Key: Exit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10149162306220032
+    m_Key: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10150518685413376
+    m_Key: ReturnToMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12670001333383168
+    m_Key: CreditsRollout
+    m_Metadata:
+      m_Items: []
+  - m_Id: 12698559753728000
+    m_Key: ChaptersSelector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31884491190939648
+    m_Key: Paused
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31928725407248384
+    m_Key: Apply
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31929110276583424
+    m_Key: Languages
+    m_Metadata:
+      m_Items: []
+  - m_Id: 31929299116732416
+    m_Key: Fullscreen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 44581517674393600
+    m_Key: RestartLevel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85600347842129920
+    m_Key: TutorialRestart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85603266779918336
+    m_Key: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85603472799936512
+    m_Key: LeaderBoardSelector
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85807311289298944
+    m_Key: MainMenu/Canvas Main Menu/SettingsPanel/BG/Panel/Language Dropdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85857961535393792
+    m_Key: Game Canvas/Game Canvas/SettingsPanel/BG/Panel/Language Dropdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 85864102210359296
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90838730403196928
+    m_Key: Credits/Canvas/BG/Mask/Credits rolling
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91326510823903232
+    m_Key: MainMenu/Menu Settings Canvas/Settings Panel/Language Dropdown
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91326516435881984
+    m_Key: MainMenu/Menu Settings Canvas/Settings Panel/Language Dropdown 1
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91354680633593856
+    m_Key: Ok
+    m_Metadata:
+      m_Items: []
+  - m_Id: 91711046262984704
+    m_Key: Controller
+    m_Metadata:
+      m_Items: []
+  - m_Id: 92860470205591552
+    m_Key: Skip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 95711055899791360
+    m_Key: Our Midias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146714635733307392
+    m_Key: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146714986179989504
+    m_Key: Options
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146724855054340096
+    m_Key: Social Midias
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146758230783823872
+    m_Key: Enter your email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146764884841598976
+    m_Key: Send
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146765380591554560
+    m_Key: Subscribe to  our newsletters
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146766560369577984
+    m_Key: 'Sucess
+
+'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 146766603705126912
+    m_Key: Invalid Email
+    m_Metadata:
+      m_Items: []
+  - m_Id: 214908797931417600
+    m_Key: Wishlist Now!
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 0
+  references:
+    version: 2
+    RefIds:
+    - rid: 0
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1608841741522

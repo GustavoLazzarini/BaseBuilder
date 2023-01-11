@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LockedButtonUI
+  m_Controller: {fileID: 9100000, guid: d799a9e4b7abb424da01be41eef6bc2f, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: a3266883c9df7db4591605091322a2fd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f040d7bf164aac74f83d98878ad2f34d, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 45094398e9a9b48438a2a1feea9acad5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: be3c0252037e7d14e8e1d35ccfe473d6, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: eb501dc68cca5b540869a777b838dbea, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 153113ed5c07cd44895fe11d7dbf4d37, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 3444aa652ab51244cb1a8a81f59f1b64, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 909efcdb3fa34294ab33ffdb1d1b11ea, type: 2}

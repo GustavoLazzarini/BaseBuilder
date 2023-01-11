@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b26c17b16262df43b2a849c8dd8b2d4, type: 3}
+  m_Name: Idle_AIStateTopDown
+  m_EditorClassIdentifier: 
+  Actions:
+  - {fileID: 11400000, guid: 2cc6458c1d77e03438f945a7aea8476b, type: 2}
+  Transitions:
+  - Decision: {fileID: 11400000, guid: 64d43bed5e8759048b1d4f5252a0c5a9, type: 2}
+    TrueState: {fileID: 11400000, guid: 768c4414c3e00bf4588eb0ebfdb50418, type: 2}
+    FalseState: {fileID: 11400000}
+  - Decision: {fileID: 11400000, guid: 1f3b9390bf904a9488b320e5ad62913f, type: 2}
+    TrueState: {fileID: 11400000, guid: 0ef5c93f242f3e84092b77adbf3b4726, type: 2}
+    FalseState: {fileID: 11400000}
+  - Decision: {fileID: 11400000, guid: a6643ed40834e734d8241e05b31d2a39, type: 2}
+    TrueState: {fileID: 11400000, guid: 58814fb651bad574caa41e1f65434239, type: 2}
+    FalseState: {fileID: 11400000}

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 591065447d2b97a4f93297441fe03ab9, type: 3}
+  m_Name: Worm_04
+  m_EditorClassIdentifier: 
+  _actor: {fileID: 11400000, guid: 86ec4c783858b4fb69c46b3ab492e258, type: 2}
+  _sentence:
+    m_TableReference:
+      m_TableCollectionName: GUID:a01372c9640af48a992e527d8f7a0744
+    m_TableEntryReference:
+      m_KeyId: 263525950808064
+      m_Key: 
+    m_FallbackState: 0
+    m_WaitForCompletion: 1
+  dialogueUIDataSO: {fileID: 11400000, guid: 656d292f470a24b498fcbe0383f476e3, type: 2}

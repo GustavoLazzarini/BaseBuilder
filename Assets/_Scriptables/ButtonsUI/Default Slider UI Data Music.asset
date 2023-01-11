@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1b4d7e43e236ce646a16ef3c640f3146, type: 3}
+  m_Name: Default Slider UI Data Music
+  m_EditorClassIdentifier: 
+  spriteBackground: {fileID: 5582214164309787698, guid: 94937551625bc6c4e8ca302904d62bb7, type: 3}
+  spriteHandler: {fileID: -1803593893904051909, guid: 3f1cd1107319a5a4280b8f1987fdaee0, type: 3}
+  animator: {fileID: 22100000, guid: 7ea908ed5abc3624eb396aa6f08f4a1e, type: 2}
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  fillColor: {r: 1, g: 1, b: 0.2509804, a: 1}
+  handlerColor: {r: 1, g: 1, b: 1, a: 1}
+  font: {fileID: 11400000, guid: 617462e5ae5bc8d459cebe451c33ffdd, type: 2}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
